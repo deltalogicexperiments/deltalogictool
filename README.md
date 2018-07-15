@@ -1,2 +1,2 @@
-# deltalogictool
-This is the repository containing the verified programs, their SMT encodings and their specifications
+# Delta-Logic-experiments
+This repository contains programs and their specifications that were verified using delta logic, as well as their SMT formulations.
